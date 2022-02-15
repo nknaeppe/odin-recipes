@@ -1,0 +1,27 @@
+* {
+    background-color: rgb(143, 130, 130);
+    text-align: left;
+}
+h1{
+    text-align: center;
+    color: rgb(190, 45, 35);
+    background-color: rgba(190, 45, 35, 0.507)
+}
+h2{
+    text-align: left;
+    margin-left: 10%;
+}
+div{
+    display: center;
+    background-color: rgb(116, 106, 106);
+}
+ul, li{
+    margin-left: 5%;
+    text-decoration: none;
+    list-style: square;
+    
+}
+a{
+    text-decoration: none;
+    color: rgb(66, 65, 63);
+}
